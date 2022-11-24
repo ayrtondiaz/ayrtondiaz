@@ -1,3 +1,7 @@
+<p align="center"><a><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./Assets/header.png" /></a></p>
+
+<br />
+
 ### Hi there 👋 My Name is Ayrton and I am a computer engineering student
 - 🔭 I’m a freelancer in my design startup
 - 🌱 I’m currently learning Node.js & React.js
