@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
