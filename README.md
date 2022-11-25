@@ -4,6 +4,7 @@
 </td>
 </tr>
 My Contact 
+</hr>
 </td>
 </tr>
 My Skills
