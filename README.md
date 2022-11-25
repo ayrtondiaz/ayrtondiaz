@@ -19,22 +19,22 @@ https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 ---
 <H3>DataBases<H3>  
 [![My Skills](https://skillicons.dev/icons?i=firebase,monogodb,mysql,sqlite&theme=dark)](https://skillicons.dev)
----
+
   
 ---
 <H3>Desing Skills<H3>  
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,wordpress&theme=dark)](https://skillicons.dev)
----
+
   
 ---
 <H3>Tools<H3>  
 [![My Skills](https://skillicons.dev/icons?i=discord,git,github,pug,ejs,vscode,visualstudio&theme=dark)](https://skillicons.dev)
---- 
+
   
 ---
 <H3>My Knowledge<H3>  
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,express,php,webpack&theme=dark)](https://skillicons.dev)
----  
+
 
 ---
 
