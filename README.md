@@ -26,12 +26,16 @@ My Knowledge
 - 👯 I’m looking to collaborate on all kinds of projects.
 - 💬 I’m interested in learning mobile development
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
-
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
+</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
+
+
 
 <div>
   <a href="https://github.com/ayrtondiaz">
