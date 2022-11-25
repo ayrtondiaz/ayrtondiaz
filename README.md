@@ -26,6 +26,7 @@ My Knowledge
 - 👯 I’m looking to collaborate on all kinds of projects.
 - 💬 I’m interested in learning mobile development
 
+</hr>
 ---
 
 <h3 align="left">GitHub Stats</h3>
