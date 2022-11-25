@@ -33,9 +33,6 @@ My Knowledge
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
-
-
 
 <div>
   <a href="https://github.com/ayrtondiaz">
