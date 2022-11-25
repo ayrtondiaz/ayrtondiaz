@@ -3,14 +3,20 @@
 <br />
 </td>
 </tr>
-My Contact 
+---
+My Contact
+---
 </hr>
 </td>
 </tr>
+---
 My Skills
+---
 </td>
 </tr>
+---
 My Knowledge
+---
 </td>
 </tr>
 
