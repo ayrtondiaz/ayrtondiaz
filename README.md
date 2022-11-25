@@ -52,7 +52,7 @@ https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 <H3>My Knowledge<H3>  
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,express,php,webpack&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,express,php,py,webpack&theme=dark" />
   </a>
 </p>
 
