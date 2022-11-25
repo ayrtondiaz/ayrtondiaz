@@ -12,6 +12,7 @@ https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 ---
 ---
 My Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ---
 ---
 My Knowledge
