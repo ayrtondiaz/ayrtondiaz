@@ -13,7 +13,7 @@ https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 ---
 <H3>My Skills<H3>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3&theme=dark)](https://skillicons.dev)
 ---
 ---
 My Knowledge
