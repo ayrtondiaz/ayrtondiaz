@@ -1,4 +1,4 @@
-<p align="center"><a><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./Assets/header.png" /></a></p>
+<p align="center"><a><img width="80%" alt="Hey u are, I'm Ayrton" src="./assets/header.png" /></a></p>
 
 <br />
 
