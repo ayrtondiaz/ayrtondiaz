@@ -11,8 +11,9 @@ My Contact
 https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 ---
 ---
-My Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<H3>My Skills<H3>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
 ---
 ---
 My Knowledge
