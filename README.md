@@ -8,7 +8,12 @@
 
 ---
 My Contact
-https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayrton-diaz-75b5ba235/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
+
 ---
 
 ---
