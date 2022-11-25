@@ -33,6 +33,6 @@ My Knowledge
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtondiaz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayrtondiaz/ayrtondiaz/blob/output/github-contribution-grid-snake.svg)
 
 ---
