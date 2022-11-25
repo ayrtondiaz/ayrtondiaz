@@ -1,32 +1,21 @@
 <p align="center"><a><img width="80%" alt="Hey u are, I'm Ayrton" src="./assets/header.png" /></a></p>
 
-<br />
-</td>
-</tr>
----
-My Contact
----
-</hr>
-</td>
-</tr>
----
-My Skills
----
-</td>
-</tr>
----
-My Knowledge
----
-</td>
-</tr>
-
 ### Hi there 👋 My Name is Ayrton and I am a computer engineering student
 - 🔭 I’m a freelancer in my design startup
 - 🌱 I’m currently learning Node.js & React.js
 - 👯 I’m looking to collaborate on all kinds of projects.
 - 💬 I’m interested in learning mobile development
 
-</hr>
+---
+My Contact
+https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
+---
+---
+My Skills
+---
+---
+My Knowledge
+---
 ---
 
 <h3 align="left">GitHub Stats</h3>
