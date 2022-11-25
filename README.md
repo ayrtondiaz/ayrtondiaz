@@ -19,9 +19,7 @@ My Contact
 ---
 <H3>My Skills<H3>  
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,bootstrap&theme=dark" />
-  </a>
 </p>
 
   
