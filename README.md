@@ -25,19 +25,15 @@ My Contact
   
 ---
 <H3>DataBases<H3>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=dark" />
-  </a>
+  <p align="left">  
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=dark" /> 
 </p>
 
   
 ---
 <H3>Desing Skills<H3>  
-  <p align="left">
-  <a href="https://skillicons.dev">
+  <p align="left">  
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,wordpress&theme=dark" />
-  </a>
 </p>
   
 
@@ -45,18 +41,14 @@ My Contact
 ---
 <H3>Tools<H3>  
   <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,git,github,pug,vscode,visualstudio&theme=dark" />
-  </a>
+      <img src="https://skillicons.dev/icons?i=discord,git,github,pug,vscode,visualstudio&theme=dark" />
 </p>
 
   
 ---
 <H3>My Knowledge<H3>  
   <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,express,php,py,webpack&theme=dark" />
-  </a>
+      <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,express,php,py,webpack&theme=dark" />
 </p>
 
 ---
