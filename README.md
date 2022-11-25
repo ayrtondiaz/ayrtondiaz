@@ -1,13 +1,13 @@
----
+
 <p align="center"><a><img width="80%" alt="Hey u are, I'm Ayrton" src="./assets/header.png" /></a></p>
----
+
 ### Hi there 👋 My Name is Ayrton and I am a computer engineering student
 - 🔭 I’m a freelancer in my design startup
 - 🌱 I’m currently learning Node.js & React.js
 - 👯 I’m looking to collaborate on all kinds of projects.
 - 💬 I’m interested in learning mobile development
 
----
+
 My Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/ayrton-diaz-75b5ba235/">
