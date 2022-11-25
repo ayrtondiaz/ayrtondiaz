@@ -20,4 +20,19 @@ My Knowledge
 - 👯 I’m looking to collaborate on all kinds of projects.
 - 💬 I’m interested in learning mobile development
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
+
+
+---
+
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+
+<div>
+  <a href="https://github.com/mctechnology17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+
+---
