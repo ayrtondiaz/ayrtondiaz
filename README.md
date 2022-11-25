@@ -1,6 +1,17 @@
 <p align="center"><a><img width="80%" alt="Hey u are, I'm Ayrton" src="./assets/header.png" /></a></p>
 
 <br />
+</td>
+</tr>
+My Contact 
+</td>
+</tr>
+My Skills
+</td>
+</tr>
+My Knowledge
+</td>
+</tr>
 
 ### Hi there 👋 My Name is Ayrton and I am a computer engineering student
 - 🔭 I’m a freelancer in my design startup
