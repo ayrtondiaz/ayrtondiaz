@@ -13,8 +13,12 @@ https://www.linkedin.com/in/ayrton-diaz-75b5ba235/
 
 ---
 <H3>My Skills<H3>  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,bootstrap&theme=dark)](https://skillicons.dev)
----
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,bootstrap&theme=dark" />
+  </a>
+</p>
+
   
 ---
 <H3>DataBases<H3>  
