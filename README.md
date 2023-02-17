@@ -31,7 +31,7 @@ My Contact
 
   
 ---
-<H3>Desing Skills<H3>  
+<H3>Design Skills<H3>  
   <p align="left">  
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,wordpress&theme=dark" />
 </p>
