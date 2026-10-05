@@ -1,7 +1,7 @@
-# Generates a snake game animation from the contribution graph
+# Generates the profile images (contribution snake and streak stats card)
 # and publishes the SVG files to the "output" branch.
 
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -28,6 +28,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF60
+
+      # generated here because the public streak-stats endpoint is unreliable
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD
+          path: dist/streak.svg
 
       # pushes the content of dist/ to the "output" branch
       - name: Publish to output branch
