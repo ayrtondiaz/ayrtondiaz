@@ -63,6 +63,10 @@ My Contact
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrtondiaz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-![Snake animation](https://github.com/ayrtondiaz/ayrtondiaz/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayrtondiaz/ayrtondiaz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayrtondiaz/ayrtondiaz/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ayrtondiaz/ayrtondiaz/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
