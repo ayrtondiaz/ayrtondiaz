@@ -1,59 +1,76 @@
 
 <p align="center"><a><img width="80%" alt="Hey u are, I'm Ayrton" src="./assets/header.png" /></a></p>
 
-### Hi there 👋 My Name is Ayrton and I am a computer engineering student
-- 🔭 I’m a freelancer in my design startup
-- 🌱 I’m currently learning Node.js & React.js
-- 👯 I’m looking to collaborate on all kinds of projects.
-- 💬 I’m interested in learning mobile development
+### Hi there 👋 My name is Ayrton and I am a Computer Engineer
+- 🎓 Computer Engineer (UCASAL, 2025) focused on Data Analytics, AI and fullstack development
+- 👨‍🏫 Higher-education professor of Programming II and Professional Practice II
+- 🔭 I build ETL pipelines, Power BI dashboards and AI agents with n8n + MCP
+- 🌱 I’m currently learning AWS, Apache Airflow, LangChain & LangGraph
+- 👯 I’m looking to collaborate on all kinds of projects
 
 
 My Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayrton-diaz-75b5ba235/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <a href="https://www.linkedin.com/in/ayrton-diaz-1437b329b/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
 </p>
 
 
 ---
-<H3>My Skills<H3>  
+### Data & AI
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="Python, scikit-learn" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
 </p>
 
-  
+
 ---
-<H3>DataBases<H3>
-  <p align="left">  
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=dark" /> 
+### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nestjs,nodejs,express,js,html,css,tailwind,bootstrap,vite&theme=dark" alt="React, Redux, Next.js, NestJS, Node.js, Express, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Vite" />
 </p>
 
-  
----
-<H3>Design Skills<H3>  
-  <p align="left">  
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,wordpress&theme=dark" />
-</p>
-  
 
-  
 ---
-<H3>Tools<H3>  
-  <p align="left">
-      <img src="https://skillicons.dev/icons?i=discord,git,github,pug,vscode,visualstudio&theme=dark" />
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" alt="PostgreSQL, MongoDB, Firebase, Supabase" />
 </p>
 
-  
+
 ---
-<H3>My Knowledge<H3>  
-  <p align="left">
-      <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,express,php,py,webpack&theme=dark" />
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,notion,vscode&theme=dark" alt="Git, GitHub, Docker, Postman, Notion, VS Code" />
+</p>
+
+
+---
+### Design Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,wordpress&theme=dark" alt="Photoshop, Illustrator, Premiere Pro, WordPress" />
+</p>
+
+
+---
+### Also worked with
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,arduino&theme=dark" alt="Java, C#, C++, Arduino" />
 </p>
 
 ---
 
-<H3>My Stats<H3>
+### My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayrtondiaz&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00FF60&dates=00FF60&ring=00FF60&fire=5AFEC7&stroke=DDDDDD)](https://git.io/streak-stats)
 
